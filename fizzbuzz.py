@@ -1,2 +1,5 @@
 for i in range(1,15+10):
-    print(i)
+    if 1%3==0
+        print('fizz')
+    else:
+        print(i)
